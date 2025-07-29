@@ -43,6 +43,8 @@ main {
   padding: 40px 20px;
 }
 
+
+
 h2 {
   font-size: 20px;
   font-weight: 700;
@@ -140,7 +142,6 @@ a {
   text-decoration: underline;
 }
 
-
 .contact a:hover {
   text-decoration: underline;
 }
@@ -171,7 +172,6 @@ a {
 .hard-skills {
   margin-bottom: 40px;
 }
-
 
 .soft-sckills ul,
 .hard-skills ul {
